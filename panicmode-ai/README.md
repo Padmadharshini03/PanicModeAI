@@ -7,6 +7,11 @@
 This contains everything you need to run your app locally.
 
 View your app in AI Studio: https://ai.studio/apps/521f4518-1260-48a2-a69d-14be051c95a2
+PanicMode AI is an atmospheric, de-escalation-first academic rescue dashboard designed to pull students out of deadline paralysis. When a high-stakes deadline is hours away, dense analytical dashboards and endless to-do lists increase cognitive anxiety and freeze progress. PanicMode AI shifts the narrative by prioritizing immediate mental grounding before guiding students through a single-minded execution path.
+
+By combining an empathetic AI Crisis Companion powered by the official Gemini API with an immersive, low-stimulation sensory environment, the platform transforms frantic late-night stress into structured momentum.
+
+
 
 ## Run Locally
 
