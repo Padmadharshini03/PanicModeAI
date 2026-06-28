@@ -1,0 +1,6 @@
+{
+  "name": "PanicMode AI",
+  "description": "An immediate, high-urgency academic productivity rescue ecosystem helping students break deadline paralysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
